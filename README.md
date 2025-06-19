@@ -2,7 +2,7 @@
 ## azure-aks-ingress-lab-20250619
 https://labs.msaez.io/#/courses/cna-full/2c7ffd60-3a9c-11f0-833f-b38345d437ae/deploy-my-app-2024
 
-## 쿠버네티스의 Ingress (경로 및 가상 호스트 기반) Azure AKS 실습
+## 쿠버네티스 Ingress (경로 및 가상 호스트 기반) Azure AKS 실습
 - 이 실습은 Azure AKS 클러스터에서 마이크로서비스 외부 접속을 위한 Kubernetes Ingress를 구성하고 배포하는 방법을 다룹니다. 
 - Helm을 이용한 NGINX Ingress Controller 설치부터 경로 기반 라우팅, 그리고 가상 호스트 기반 라우팅까지 구현합니다.
 - 외부 HTTP/S 트래픽이 내부 서비스로 어떻게 라우팅되는지, 그리고 DNS/hosts 파일 설정의 중요성을 이해합니다.
